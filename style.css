@@ -1,0 +1,43 @@
+h1{
+
+background:-webkit-linear-gradient(top #00F #0CF #0C0);
+margin-left: 10px;
+color:turquoise;
+width:90%;
+text-align:center;
+border-radius:20px;
+padding:20px;
+font-size:40px;
+box-shadow:blue 5px 5px 10px;
+text-shadow:blue 3px 3px 2px
+
+}
+
+
+    section{
+        width:80%;
+        border-top:2px dashed gray;
+        margin:15px auto;
+           }
+
+   
+
+           figure img {
+            border-radius:20px;
+            background-color: black;
+
+            }
+
+       
+        figure img:hover{ 
+
+        -webkit-transform:scale(1.2);
+
+         }
+
+         figcaption{
+
+            clear: inherit;
+
+
+         }
